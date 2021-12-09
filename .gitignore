@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SifOut/bin/Debug/Testcase
+/SifOut/obj
+/SifOut/bin/Debug
+/packages/Newtonsoft.Json.13.0.1
+/.vs
